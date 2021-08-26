@@ -21,7 +21,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/Mehdi-RZ/my-repo-template/blob/main/README.md">
     <img src="img/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -32,11 +32,11 @@
     <br />
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/Mehdi-RZ/my-repo-template/blob/main/README.md">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/Mehdi-RZ/my-repo-template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/Mehdi-RZ/my-repo-template/issues">Request Feature</a>
   </p>
 </p>
 
