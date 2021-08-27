@@ -11,17 +11,17 @@ assignees: ''
 
 *Provide application and use context to the developer and user, to improve the understanding of the user story title.*
 
-*Links to the mockups or design: They are a great help to understand how the functionality in the user story is to be mapped in the application.*
+* **Links to the mockups or design: They are a great help to understand how the functionality in the user story is to be mapped in the application.* *
 
-*Helpful resources and things to checkout*
+* **Helpful resources and things to checkout* *
 
-## Acceptance criterias
+## Acceptance criterias *to fill next*
 
 - [ ] criteria 1
 - [ ] criteria 2
 - [ ] criteria 3 
 
-## Tasks
+## Tasks *to fill next*
 
 - [ ] task 1 + issue #
 - [ ] task 2 + issue #
