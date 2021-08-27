@@ -15,13 +15,13 @@ assignees: ''
 
 * **Helpful resources and things to checkout* *
 
-## Acceptance criterias *to fill next*
+## Acceptance criterias * *to fill next* *
 
 - criteria 1
 - criteria 2
 - criteria 3 
 
-## Tasks *to fill next*
+## Tasks * *to fill next* *
 
 - [ ] task 1 + issue #
 - [ ] task 2 + issue #
