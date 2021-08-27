@@ -17,9 +17,9 @@ assignees: ''
 
 ## Acceptance criterias *to fill next*
 
-- [ ] criteria 1
-- [ ] criteria 2
-- [ ] criteria 3 
+- criteria 1
+- criteria 2
+- criteria 3 
 
 ## Tasks *to fill next*
 
