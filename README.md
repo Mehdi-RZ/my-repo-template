@@ -44,17 +44,7 @@
 ## About The Project
 
 ### Description
-
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+General description of the project, the main goals, and maybe some extra informations about the concept ; what/why/how .
 
 ### Tech stack
 The list of technologies we will use to build the application are as follows ( Backend/Frontend/APIs/libraries/...) :
@@ -66,7 +56,7 @@ The list of technologies we will use to build the application are as follows ( B
 | [Backend Framework] | [Spring Boot]          | [2.4.1]  |
 | [Frontend]          | [React]                | [17.0.1] |
 
-### Designs
+### Designs*
 
 * System Design :
 
@@ -108,7 +98,7 @@ const API_KEY = 'ENTER YOUR API';
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Usage*
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -118,7 +108,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- ROADMAP -->
 ## Roadmap
-
+Needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.\
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
 
 
@@ -136,7 +126,7 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-
+A list of commonly used resources that I find helpful are also listed in the acknowledgements.
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
